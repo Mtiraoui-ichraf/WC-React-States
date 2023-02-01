@@ -1,0 +1,17 @@
+.mido{
+ /* border: 10px solid blue;*/
+  width: 30%;
+  background-color: rgb(217, 111, 180);
+  text-align: center;
+  margin: auto;
+}
+.mido img{
+width: 200px;
+height:200px;
+border-radius: 50%;
+object-fit: cover;
+}
+.mido:hover{
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
